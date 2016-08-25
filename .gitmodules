@@ -1,3 +1,3 @@
 [submodule "test-submodule-mod"]
 	path = test-submodule-mod
-	url = git://github.com/dlarudgus20/test-submodule-mod
+	url = https://github.com/dlarudgus20/test-submodule-mod
